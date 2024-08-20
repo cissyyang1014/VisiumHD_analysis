@@ -36,4 +36,4 @@ plot_gene_VHD_highlight_2genes(object, gene1, gene2)
 ```
 
 ### Deconvolution using spacexr
-Please refer to the example code `visiumHD_spacexr.R`.
+Please refer to the example code `visiumHD_spacexr.R`. - under construction
